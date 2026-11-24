@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**marchodeviano-byte/marchodeviano-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.svg" width="100%" alt="Welcome - Marcho Dominggus Deviano Timisela" />
 
-Here are some ideas to get you started:
+<a href="https://github.com/marchodeviano-byte">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4FF&center=true&vCenter=true&width=600&lines=Hai%2C+saya+Marcho+Timisela+%F0%9F%91%8B;Terima+kasih+sudah+mampir!;Selalu+belajar+dan+berkarya" alt="Typing animation" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Skills" />
+
+<br/><br/>
+
+<a href="https://www.instagram.com/dt.marcho_"><img src="https://img.shields.io/badge/Instagram-dt.marcho__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/marchodeviano-byte/tikum_Bps"><img src="https://img.shields.io/badge/Project-tikum__Bps-0ea5e9?style=for-the-badge&logo=javascript&logoColor=white" alt="tikum_Bps" /></a>
+
+📍 Bogor, Indonesia
+
+</div>
